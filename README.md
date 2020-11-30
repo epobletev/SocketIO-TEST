@@ -1,5 +1,4 @@
-# Evaluacion tecninca All Ride
-### Back End NodeJS
+### Socket IO
 #### Aplicacion 
 - [Backend](https://desolate-fortress-14554.herokuapp.com/) hosteada en heroku
 
